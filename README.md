@@ -3,7 +3,7 @@
 Azure introduciton - links 
 
 
-# Misisng link, invalid or incorrect information?
+# Missing link, invalid, incorrect information or t-typo :) ?
 
   - fork this repo
   - create meaningful branch
