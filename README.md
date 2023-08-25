@@ -1,2 +1,3 @@
-# AzureForJava
+# Azure for Java Developers
+
 Azure introduciton - links 
