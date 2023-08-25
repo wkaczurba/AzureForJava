@@ -6,5 +6,6 @@ Azure introduciton - links
 # Missing link, invalid, incorrect information or t-typo :) ?
 
   - fork this repo
-  - create meaningful branch
-  - create pull-request and provide details on what needs to be changed.
+  - create meaningful branch name
+  - create pull-request and provide details on what needs to be changed why etc.
+  
